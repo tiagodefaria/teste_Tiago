@@ -1,10 +1,9 @@
 ### Teste_técnico - Tiago
 
 
-To run the (failing) test:
-
+Para executar o teste
 ```
-$  pytest -v
+pytest -v <nome_do_arquivo_de_teste>
 ```
 
 Código completo
